@@ -1,0 +1,2 @@
+Thiss is a sapmmle text wth some incorect spellling and gramatical mistakes. I am testing the spelling correction function. Hopfully, it will corect the errrs and imprve the accracy of the texxt.
+if there is amy mistekas this is goinh to be corected
